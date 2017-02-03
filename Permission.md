@@ -10,3 +10,8 @@ user’s privacy or security” are granted automatically at installation time�
 **PROTECTION_NORMAL** permission
 
 Android does not ask users to grant such permissions, nor can users revoke such permissions from the app.
+
+
+
+
+https://developer.android.com/preview/features/runtime-permissions.html#best-practices
