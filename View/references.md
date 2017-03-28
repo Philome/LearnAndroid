@@ -6,6 +6,9 @@ https://developer.android.com/training/custom-views/index.html
 Custom Components   
 https://developer.android.com/guide/topics/ui/custom-components.html
 
+How Android Draws Views  
+https://developer.android.com/guide/topics/ui/how-android-draws.html
+
 
 
 
